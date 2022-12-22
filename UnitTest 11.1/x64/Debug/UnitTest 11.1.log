@@ -1,0 +1,4 @@
+﻿  UnitTest 11.1.cpp
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\11.1-5\Lab 11.1\Lab 11.1\Source.cpp(17,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\11.1-5\Lab 11.1\UnitTest 11.1\UnitTest 11.1.cpp(23,27): warning C4018: '<': signed/unsigned mismatch
+  UnitTest 11.1.vcxproj -> C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\11.1-5\Lab 11.1\x64\Debug\UnitTest 11.1.dll
